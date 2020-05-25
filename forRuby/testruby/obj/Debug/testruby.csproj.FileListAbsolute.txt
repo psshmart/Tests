@@ -1,0 +1,5 @@
+/Users/psshmart/Projects/testruby/testruby/bin/Debug/testruby.exe
+/Users/psshmart/Projects/testruby/testruby/bin/Debug/testruby.pdb
+/Users/psshmart/Projects/testruby/testruby/obj/Debug/testruby.exe
+/Users/psshmart/Projects/testruby/testruby/obj/Debug/testruby.pdb
+/Users/psshmart/Projects/testruby/testruby/obj/Debug/testruby.csprojAssemblyReference.cache
